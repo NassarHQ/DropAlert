@@ -1,0 +1,6 @@
+DropAlert is a machine learning project that predicts whether a student will drop out, remain enrolled, or graduate, using academic, financial, and demographic data.
+The pipeline includes:
+Data preprocessing: cleaning, encoding, and balancing the dataset with SMOTE
+Modeling: training and evaluating an XGBoost classifier
+Performance: achieved 86% accuracy and 0.78 F1-score on imbalanced data
+Goal: help institutions identify at-risk students early to improve retention
